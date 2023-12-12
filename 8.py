@@ -1,4 +1,4 @@
-# exercise_8 - what kind of function is this???
+# ex 8 - what kind of function is this???
 # your choices are (hint: they can be multiple ones of these!):
 #   1. idempotent
 #   2. pure

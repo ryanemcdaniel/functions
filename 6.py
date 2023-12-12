@@ -6,7 +6,8 @@ def test(case, expr):
         print('test', case, '= KEEP TRYING :)')
 
 
-# exercise3 - encapsulate the following logic via functions
+# ex 6 - writing your own function
+
 # Python's math system does not like division by zero...
 # Using any of the python logic and syntax you've learned so far,
 # do the following:

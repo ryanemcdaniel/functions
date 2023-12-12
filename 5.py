@@ -1,4 +1,4 @@
-# ex2 - functions inside functions, what???
+# ex 5 - functions inside functions, what???
 # can you figure out what's wrong?
 
 def outside():

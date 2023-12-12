@@ -1,5 +1,4 @@
-# ex0 - the 'anatomy' of a function
-# label all the parts of this example
+# ex 1 - label the 'anatomy' of these functions
 
 print(type(print()))  # ?
 print(type(print))    # ?

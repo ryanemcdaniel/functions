@@ -1,4 +1,4 @@
-# function definition / interface
+# ex 0 - function definition / interface
 def myFn(param1, param2, paramN):  # (...parameters)
     print(param1)  # function body
     print(param2)

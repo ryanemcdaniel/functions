@@ -1,5 +1,4 @@
-# ex0 - function syntax
-# what's wrong with this function?
+# ex 2 - what's wrong with this function definition?
 
 def add(num1, num2)
 num1 + num2
